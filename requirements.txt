@@ -1,0 +1,8 @@
+# Dependencies for the Computer Vision image-classification project
+tensorflow
+numpy
+matplotlib
+seaborn
+scikit-learn
+gradio
+kaggle

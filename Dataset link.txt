@@ -1,0 +1,2 @@
+Dataset link:
+!kaggle datasets download -d puneet6060/intel-image-classification
