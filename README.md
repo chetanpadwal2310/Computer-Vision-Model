@@ -13,7 +13,7 @@ Install dependencies:
 ```bash
    pip install -r requirements.txt
    ```
-Open and run `Computer_vision_Model.ipynb` in Google Colab or a compatible Jupyter environment.
+Open and run `Computer_vision_Model.ipynb(1)` in Google Colab or a compatible Jupyter environment.
 Follow the notebook instructions to prepare the dataset, train/evaluate the model, and try image predictions.
 Project Files
 `Computer_vision_Model.ipynb` — Main notebook
